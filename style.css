@@ -1,0 +1,24 @@
+.data_color_change {
+    color: white;
+    font-weight: bold;
+}
+
+.f_color{
+    color:whitesmoke;
+}
+.bg-color-footer{
+    background-color:#ffc107;
+}
+.bg-light{
+    background-color: whitesmoke;
+}
+.featurette-heading{
+    margin-top: 7rem;
+}
+.bg-color{
+    background-color: #343a40;
+
+}
+.featurette-heading,.text-muted,.lead{
+    color: whitesmoke;
+}
